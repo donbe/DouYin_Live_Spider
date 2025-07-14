@@ -26,7 +26,7 @@
 ---
 
 ## 📸 示例截图（可选）
-[![观看演示](http://img.zhsyh.cn/temp/i.png)](http://img.zhsyh.cn/temp/v.mp4)
+[![观看演示](http://img.zhsyh.cn/temp/i2.png)](http://img.zhsyh.cn/temp/v.mp4)
 ---
 
 ## 💼 适用场景
